@@ -64,9 +64,6 @@ footer {
   display: flex;
 }
 
-.list {
-  margin-left: 5vw;
-}
 
 .second {
   overflow: hidden;
@@ -74,6 +71,7 @@ footer {
   min-height: 70.1vh;
   background-color: #f4cbb7;
   align-items: center;
+  justify-content: center;
   display: flex;
   border: solid 1px black;
   border-top: none;
